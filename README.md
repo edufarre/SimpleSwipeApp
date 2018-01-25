@@ -13,6 +13,22 @@ Link to project: [Swipe App](https://expo.io/@edufa/swipe)
 
 ![AppGif](imgs/appWorkflow.gif "AppWorkflowGif")
 
+## Openning project in Expo
+
+1. Create a new project using Expo XDE
+2. Install React Native Elements to the project folder
+
+```
+npm install --save react-native-elements
+```
+or
+
+```
+yarn add react-native-elements
+```
+3. Replace App.js for the one in this repository
+4. Add 'src' folder to your project directory
+
 ## Known Issues
 
 * Missing back-end functionalities
