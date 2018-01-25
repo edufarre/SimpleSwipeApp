@@ -1,4 +1,4 @@
-# SimpleSwipeApp
+# Simple Swipe App
 Little swipping app sample using React Native programming language for creating hybrid apps (for iOS and Android).
 
 ## Deeper look
