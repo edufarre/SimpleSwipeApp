@@ -5,6 +5,8 @@ Little swipping app sample using React Native programming language for creating 
 
 This app was developed using Expo XDE and dummy data for cards information. Its aim is to code and practice animations in React Native, learn how to relate Animation Module with PanResponder Module.
 
+Link to project: [Swipe App](https://expo.io/@edufa/swipe)
+
 ### Examples
 
 #### App video:
